@@ -16,12 +16,17 @@ Calculating the total cost of their selections, including the VAT (15%) and any 
 Presenting a clear and concise breakdown of the costs, making it easy for customers to see exactly what they are paying for.
 
 ### What I Plan to Learn
-Through this project, I aim to strengthen my programming skills in several key areas:
-User Input Handling: Learning how to gather and validate user input effectively.
-Arithmetic Operations: Practicing basic mathematical calculations and understanding how to apply them in a real-world context.
-String Manipulation: Enhancing my ability to format output in a user-friendly manner.
-Code Organization: Structuring my code for readability and maintainability.
-Version Control: Gaining experience with Git and GitHub by documenting my progress and sharing my work with others.
+Through this project, I aim to strengthen my programming skills in several key areas.
+#### User Input Handling
+Learning how to gather and validate user input effectively.
+####Arithmetic Operations
+Practising basic mathematical calculations and understanding how to apply them in a real-world context.
+#### String Manipulation
+Enhancing my ability to format output in a user-friendly manner.
+#### Code Organization
+Structuring my code for readability and maintainability.
+#### Version Control
+Gaining experience with Git and GitHub by documenting my progress and sharing my work with others.
 
 ### Conclusion
 This Coffee and Cookie Shop Calculator is not just a coding exercise; it represents my commitment to learning and creating practical solutions that can make everyday tasks easier for people. I hope that by sharing this project on GitHub, I can inspire others to embark on their programming journeys and contribute to the community of learners and creators. Thank you for checking out my project!
