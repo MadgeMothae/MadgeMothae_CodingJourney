@@ -19,7 +19,7 @@ Presenting a clear and concise breakdown of the costs, making it easy for custom
 Through this project, I aim to strengthen my programming skills in several key areas.
 #### User Input Handling
 Learning how to gather and validate user input effectively.
-####Arithmetic Operations
+#### Arithmetic Operations
 Practising basic mathematical calculations and understanding how to apply them in a real-world context.
 #### String Manipulation
 Enhancing my ability to format output in a user-friendly manner.
