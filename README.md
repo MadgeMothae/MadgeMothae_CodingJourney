@@ -1,4 +1,3 @@
-89% of storage used … If you run out, you can't create, edit, and upload files.
 # Background and Story: Coffee and Cookie Shop Calculator
 
 ## Background
