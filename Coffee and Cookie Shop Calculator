@@ -16,8 +16,8 @@ if (isNaN(cookies)) cookies = 0;
 if (isNaN(tipPercentage)) tipPercentage = 0;
 
 //calculations
-var coffeePrice= 30;
-var cookiesPrice = 19;
+var coffeePrice= 30.00;
+var cookiesPrice = 19.00;
 var tipDecimal =tipPercentage/100;
 var totalPurch = (coffeePrice*coffee) + (cookiesPrice*cookies);
 //tip is not taxable as it will goto the employee;
@@ -26,4 +26,9 @@ var totalVat = totalPurch*0.10; //tax
 //total Amount
 var fullAmt = totalPurch+totalVat+tipCalc;
 
-console.log("Total Tip Amount R"+ fullAmt.toFixed(2));
+//All costs labeled line item by line item
+console.log("You have ordered " + coffee + " coffees for the price of R" + coffeePrice + " each");
+console.log("You have ordered " + cookies + " cookies for the price of R" + cookiesPrice + " each");
+console.log("Tip Amount R"+ tipCalc.toFixed(2));
+console.log("Total Vat Amount R"+ totalVat.toFixed(2));
+console.log("Total Bill Amount is R"+ fullAmt.toFixed(2));
